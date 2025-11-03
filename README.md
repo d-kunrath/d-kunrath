@@ -3,6 +3,7 @@
 Web Developer, Teacher and soon-to-be computer scientist!
 
 ## Career
+- API Developer @ [smarters](https://smarters.com.br) [2025 - today]
 - Frontend Dev @ [PEFISA Internet Banking](https://ibpj.pefisa.com.br) [2021 - 2023]
 - Web Dev Teacher @ [Ironhack São Paulo](https://www.ironhack.com) [2022 - 2023]
 - Web Dev Teacher Assistant @ [Ironhack São Paulo](https://www.ironhack.com) [2020 - 2022]
